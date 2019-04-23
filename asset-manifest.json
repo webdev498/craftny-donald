@@ -1,13 +1,13 @@
 {
-  "main.css": "https://webdev498.github.io/craftny-donald/static/css/main.792cdd31.chunk.css",
-  "main.js": "https://webdev498.github.io/craftny-donald/static/js/main.a7133530.chunk.js",
-  "main.js.map": "https://webdev498.github.io/craftny-donald/static/js/main.a7133530.chunk.js.map",
-  "static/js/1.9d7df810.chunk.js": "https://webdev498.github.io/craftny-donald/static/js/1.9d7df810.chunk.js",
-  "static/js/1.9d7df810.chunk.js.map": "https://webdev498.github.io/craftny-donald/static/js/1.9d7df810.chunk.js.map",
-  "runtime~main.js": "https://webdev498.github.io/craftny-donald/static/js/runtime~main.5757e591.js",
-  "runtime~main.js.map": "https://webdev498.github.io/craftny-donald/static/js/runtime~main.5757e591.js.map",
-  "static/css/main.792cdd31.chunk.css.map": "https://webdev498.github.io/craftny-donald/static/css/main.792cdd31.chunk.css.map",
-  "index.html": "https://webdev498.github.io/craftny-donald/index.html",
-  "precache-manifest.2762e9d31427c225f15671855e8e99ff.js": "https://webdev498.github.io/craftny-donald/precache-manifest.2762e9d31427c225f15671855e8e99ff.js",
-  "service-worker.js": "https://webdev498.github.io/craftny-donald/service-worker.js"
+  "main.css": "/craftny-donald/static/css/main.792cdd31.chunk.css",
+  "main.js": "/craftny-donald/static/js/main.9420a4ba.chunk.js",
+  "main.js.map": "/craftny-donald/static/js/main.9420a4ba.chunk.js.map",
+  "static/js/1.e09bf929.chunk.js": "/craftny-donald/static/js/1.e09bf929.chunk.js",
+  "static/js/1.e09bf929.chunk.js.map": "/craftny-donald/static/js/1.e09bf929.chunk.js.map",
+  "runtime~main.js": "/craftny-donald/static/js/runtime~main.71625ed9.js",
+  "runtime~main.js.map": "/craftny-donald/static/js/runtime~main.71625ed9.js.map",
+  "static/css/main.792cdd31.chunk.css.map": "/craftny-donald/static/css/main.792cdd31.chunk.css.map",
+  "index.html": "/craftny-donald/index.html",
+  "precache-manifest.c2abd237519fed5a26bf115f6d0a1283.js": "/craftny-donald/precache-manifest.c2abd237519fed5a26bf115f6d0a1283.js",
+  "service-worker.js": "/craftny-donald/service-worker.js"
 }

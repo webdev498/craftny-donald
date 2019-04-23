@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "https://webdev498.github.io/craftny-donald/precache-manifest.2762e9d31427c225f15671855e8e99ff.js"
+  "/craftny-donald/precache-manifest.c2abd237519fed5a26bf115f6d0a1283.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("https://webdev498.github.io/craftny-donald/index.html", {
+workbox.routing.registerNavigationRoute("/craftny-donald/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });
