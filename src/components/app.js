@@ -27,7 +27,7 @@ class App extends Component {
 
   render() {
     return (
-      <Router>
+      <Router basename={process.env.PUBLIC_URL}>
         <div>
           <Header authUser={this.state.authUser} />
           <Route exact path="/" component={FeedList} />

@@ -2,8 +2,10 @@
   "name": "craft-test",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://webdev498.github.io/craftny-donald",
   "dependencies": {
     "firebase": "^5.8.1",
+    "gh-pages": "^2.0.1",
     "moment": "^2.24.0",
     "node-sass": "^4.11.0",
     "react": "^16.7.0",
@@ -16,7 +18,9 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": "react-app"
